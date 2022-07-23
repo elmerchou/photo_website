@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(94, 3, 117);
+}
+
+ul {
+  list-style-type: none;
+}
+
+.morePicture {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem;
+  // margin: 4rem;
+  button {
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    background-color: rgb(73, 1, 73);
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+}
+
+@import "_nav";
+@import "_search";
+@import "_footer";
+@import "_picture";
+@import "_about";
