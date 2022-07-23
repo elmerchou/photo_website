@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/elmerchou/photo_website/static/css/main.33ccc5c0.css",
+    "main.js": "/elmerchou/photo_website/static/js/main.a57f73ec.js",
+    "static/media/untitled.png": "/elmerchou/photo_website/static/media/untitled.bec48bb0fbd53854e957.png",
+    "index.html": "/elmerchou/photo_website/index.html",
+    "main.33ccc5c0.css.map": "/elmerchou/photo_website/static/css/main.33ccc5c0.css.map",
+    "main.a57f73ec.js.map": "/elmerchou/photo_website/static/js/main.a57f73ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33ccc5c0.css",
+    "static/js/main.a57f73ec.js"
+  ]
+}
